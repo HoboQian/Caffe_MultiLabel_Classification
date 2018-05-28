@@ -42,3 +42,7 @@ http://download.csdn.net/detail/mr_curry/9742578
 ### Note that this project only support 2 classes classification. 
 The network structure:
 ![](http://img.blog.csdn.net/20170120103953309?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTXJfQ3Vycnk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+Detail describle:
+https://blog.csdn.net/Mr_Curry/article/details/54629129
